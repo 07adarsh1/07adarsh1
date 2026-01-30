@@ -1,29 +1,34 @@
-<!-- TOP BANNER -->
+<!-- ANIMATED CODING FIGURE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Adarsh%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300" />
 </p>
 
-<!-- TYPING INTRO -->
+<!-- NAME BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Software+Engineering+%7C+Web+%7C+AI;Building+Scalable+and+Intelligent+Systems;Consistency+%3E+Motivation" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=38BDF8&text=Adarsh%20Singh&height=120&fontSize=52&desc=Software%20Engineer%20in%20the%20Making&descAlignY=75&descSize=20&animation=fadeIn" />
+</p>
+
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Full-Stack+%7C+Backend+%7C+AI+Systems;Building+Scalable+and+Intelligent+Products;Code.+Lift.+Repeat." />
 </p>
 
 ---
 
-## 🚀 About Me
+## ⚡ Who Am I?
 
-🎓 **B.Tech CSE (2023–2027)**  
-💻 **Software Engineering | Full-Stack | AI Systems**  
-🧠 Strong foundations in **DSA, Core CS & Backend Engineering**
+🎓 **B.Tech Computer Science (2023–2027)**  
+💻 **Software Engineering | Web | AI**  
+🧠 Strong in **DSA, Core CS & Backend Architecture**
 
-- 🔹 125+ DSA problems solved  
-- 🔹 Built AI-powered platforms used by 100+ demo users  
-- 🔹 Focused on **clean architecture, scalability & performance**
-- 🔹 Fitness-driven mindset — discipline in code & life
+- 🚀 Built AI platforms used by **100+ demo users**
+- 🧩 Solved **125+ DSA problems**
+- ⚙️ Obsessed with **clean code, performance & scalability**
+- 🏋️ Discipline-first mindset — gym & GitHub both daily
 
 ---
 
-## 🧠 Tech Arsenal
+## 🧠 Tech Stack (My Daily Weapons)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,mysql,aws,linux,git,github&theme=dark" />
@@ -33,38 +38,38 @@
 
 ## 💼 Experience
 
-### 🧠 **SoulNest — AI Mental Wellness Platform**
+### 🧠 SoulNest — *AI Mental Wellness Platform*
 **SIH Hackathon | Sep 2025**
 
-- 🤖 NLP-based conversational AI with **85%+ sentiment accuracy**
-- ⚙️ Designed **10+ REST APIs** (Node.js, Express)
-- 📊 Journaling & emotional insight engine
-- 🚀 Boosted engagement by **40%** via responsive UI
-- 👥 Served **100+ demo users** in a 6-member team
+- 🤖 NLP conversational AI (**85%+ sentiment accuracy**)
+- ⚙️ Built **10+ REST APIs** (Node.js, Express)
+- 📊 Journaling & emotional insights engine
+- 📈 Boosted engagement by **40%**
+- 👥 Served **100+ demo users** (6-member team)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔍 **AI Resume Analyzer & Job Matcher**
-> *AI-powered hiring & ATS system*
+### 🔍 AI Resume Analyzer & Job Matcher
+> *Smart ATS & hiring intelligence system*
 
 - Resume parsing & skill extraction (**90%+ accuracy**)
 - Semantic matching using **embeddings (+30% relevance)**
-- REST APIs + dashboards (Node, Express, MongoDB)
+- Backend: **Node.js, Express, MongoDB**
 
 ---
 
-### 🎨 **Forge UI — AI UI Generator**
-> *Generate production-ready UI from text*
+### 🎨 Forge UI — AI UI Generator
+> *Turn text into production-ready UI*
 
 - Natural language → reusable UI components
-- Serverless backend using **Next.js API routes**
+- Serverless backend (**Next.js API routes**)
 - CI/CD + auto-deploy on **Vercel**
 
 ---
 
-## 📊 GitHub Performance
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=07adarsh1&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -78,17 +83,16 @@
 ---
 
 ## 🏆 Achievements
-
-- 🥇 **Oracle Certified AI Foundations Associate**
-- 🎓 **Big Data & Data Science Bootcamp — C-DAC**
-- 💡 Solved **125+ DSA problems** (LeetCode)
+- 🥇 Oracle Certified **AI Foundations Associate**
+- 🎓 Big Data & Data Science Bootcamp — **C-DAC**
+- 💡 **125+ DSA problems** solved
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Leveling Up
 - System Design (LLD + HLD)
-- Advanced Backend Patterns
-- Secure & scalable AI integrations
+- Scalable Backend Patterns
+- Secure AI integrations
 
 ---
 
@@ -105,7 +109,6 @@
 
 ---
 
-<!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 </p>
