@@ -1,8 +1,7 @@
-<!-- ANIMATED CODING FIGURE -->
+<!-- TOP BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Adarsh%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
-
 <!-- NAME BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=38BDF8&text=Adarsh%20Singh&height=120&fontSize=52&desc=Software%20Engineer%20in%20the%20Making&descAlignY=75&descSize=20&animation=fadeIn" />
