@@ -46,7 +46,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔍 AI Resume Analyzer & Job Matcher
+### 🔍 SkillSnap - AI Resume Analyzer And Job Matcher
 > *Smart ATS & hiring intelligence system*
 
 - Resume parsing & skill extraction (**90%+ accuracy**)
