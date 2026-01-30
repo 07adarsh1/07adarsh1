@@ -67,17 +67,9 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=07adarsh1&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats Card"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=07adarsh1&theme=tokyonight"
-    alt="GitHub Streak Card"
-  />
+  <img src="https://img.shields.io/github/repos/07adarsh1?style=for-the-badge&logo=github&color=181717" />
+  <img src="https://img.shields.io/github/followers/07adarsh1?style=for-the-badge&logo=github&color=181717" />
+  <img src="https://img.shields.io/github/stars/07adarsh1?style=for-the-badge&logo=github&color=181717" />
 </p>
 
 ---
