@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/naruto.gif" width="320"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/cyberpunk.gif" width="340"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=38BDF8&text=Adarsh%20Singh&height=120&fontSize=52&desc=Software%20Engineer%20in%20the%20Making&descAlignY=75&descSize=20&animation=fadeIn" />
+</p>
 
 
 <!-- NAME BANNER -->
