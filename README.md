@@ -72,8 +72,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=07adarsh1&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=07adarsh1&theme=tokyo-night&hide_border=true" />
 </p>
+>
 
 ---
 
