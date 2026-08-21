@@ -18,7 +18,7 @@
 🧠 Strong in **DSA, Core CS & Backend Architecture**
 
 - 🚀 Built AI platforms used by **100+ demo users**
-- 🧩 Solved **160+ DSA problems**
+- 🧩 Solved **180+ DSA problems**
 - ⚙️ Obsessed with **clean code, performance & scalability**
 - 🏋️ Discipline-first mindset — gym & GitHub both daily
 
