@@ -78,7 +78,7 @@
 ## 🏆 Achievements
 - 🥇 Oracle Certified **AI Foundations Associate**
 - 🎓 Big Data & Data Science Bootcamp — **C-DAC**
-- 💡 **125+ DSA problems** solved
+- 💡 **180+ DSA problems** solved
 
 ---
 
